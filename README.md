@@ -78,6 +78,12 @@ In your prompt type
   ```
   go get github.com/whiterabb17/medusa
   ```
+ 
+### Note
+Additional processes and configs can be set in `util\process_list.go`<br>
+Such as AV processes to kill/search for.<br>
+Additional strings to find or MAC addresses to add to the blacklist
+  
 ## Usage
 Into your program, import the packages used by Medusa
 ```

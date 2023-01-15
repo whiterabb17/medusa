@@ -10,7 +10,7 @@ Golang anti-vm framework
 
   
   <p align="center">
-    Let Medusa hidde your malware in your assalt operation!
+    Let Medusa stone wall anti-analysis
     <br />
     <br />
     <br />

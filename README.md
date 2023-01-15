@@ -47,8 +47,8 @@ Golang anti-vm framework
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Medusa is an anti-vm framework.
-Written in Golang in order to support Red Team operations and Pentesters during engagements.
+Medusa is an anti-vm framework.<br>
+Written in Golang in order to support Red Team operations and Pentesters during engagements.<br>
 Medusa is designed for Windows environment!<br/>
 !!I'm not responsible for your acts!!
 

@@ -10,7 +10,7 @@ Golang anti-vm framework
 
   
   <p align="center">
-    Let Medusa stone wall anti-analysis
+    Let Medusa stone wall analysis
     <br />
     <br />
     <br />

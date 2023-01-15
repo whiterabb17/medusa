@@ -5,7 +5,7 @@ Golang anti-vm framework
 
 <p align="center">
   <a href="https://github.com/whiterabb17/medusa">
-    <img src="https://github.com/whiterabb17/medusa/blob/main/medusa.png" alt="Logo" width="190" height="160">
+    <img src="https://github.com/whiterabb17/medusa/blob/main/medusa.jpg" alt="Logo" width="190" height="160">
   </a>
 
   
